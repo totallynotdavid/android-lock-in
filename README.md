@@ -28,7 +28,7 @@ Lock' in features a clean, distraction-free interface in both light and dark mod
 
 The fastest way to work with the code is through Firebase Studio:
 
-<a href="https://studio.firebase.google.com/import?url=https%3A%2F%2Fgithub.com%2Fflutter%2Fwebsite">
+<a href="https://studio.firebase.google.com/import?url=https%3A%2F%2Fgithub.com%2Ftotallynotdavid%2Fandroid-lock-in">
   <img
     height="32"
     alt="Open in Firebase Studio"
